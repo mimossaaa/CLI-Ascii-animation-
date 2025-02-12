@@ -8,6 +8,9 @@ This Python script animates ASCII art by rotating it around a vertical axis usin
 - Uses a cosine transformation to create a swinging effect.
 - Easily customizable ASCII art.
 
+## Preview
+![](https://github.com/ballliekmvp/CLI-Ascii-animation-/blob/main/majidanimation.py%20-%20Code%20-%20Visual%20Studio%20Code%202025-02-12%2011-13-34.gif)
+
 ## Installation & Usage
 ### Prerequisites
 Ensure you have Python 3 installed on your system.
