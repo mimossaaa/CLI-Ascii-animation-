@@ -5,7 +5,7 @@ This Python script animates ASCII art by rotating it around a vertical axis usin
 ## Features
 - Rotate any ASCII art around its vertical axis.
 - Runs smoothly in the terminal.
-- Uses a cosine transformation to create a swinging effect.
+- Uses a cosine  transformation to create a swinging effect.
 - Easily customizable ASCII art.
 
 ## Preview
